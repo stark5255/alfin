@@ -1,8 +1,8 @@
-#include <Servo.h>
 
-// Include Arduino Wire library for I2C
-#include <Wire.h>
-// Include LCD display library 
+
+// Include Arduino servo library
+#include <Servo.h>
+// Include LCD display library
 #include <LiquidCrystal.h>
 // Include Keypad library
 #include <Keypad.h>
